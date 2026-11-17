@@ -17,7 +17,7 @@ Build and tooling details stay in each repository's own README.
 
 - [penvire-contracts](https://github.com/Penvire/penvire-contracts)
 - [penvire-backend](https://github.com/Penvire/penvire-backend)
-- [penvire-client](https://github.com/Penvire/penvire-client)
+- [penvire-clients](https://github.com/Penvire/penvire-clients)
 
 ## License
 
